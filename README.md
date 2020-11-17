@@ -1,4 +1,8 @@
-# 🥔 POTATO-FRIENDLY WEB DEV. SETUP 🕸
+# 🥔 POTATO-FRIENDLY WEB DEV. SETUP
+
+0. **GNU/Linux based OS**
+
+   *Install one from so many linux distributions available, look around the Internet which one that's really fit on you*
 
 1. **Bash**
 

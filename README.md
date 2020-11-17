@@ -53,7 +53,3 @@
    [GitHub Repo](https://github.com/preservim/nerdtree)
 
 10. **and of course, Web Browser + React Dev. Tools + Redux Dev. Tools**
-<br/>
-<br/>
-<br/>
-*note: btw I use Arch* 😐

@@ -6,7 +6,7 @@ name: Test Workflow
 on:
   # Triggers the workflow on 11.00 UTC
   schedule:
-    - cron: '10 11 * * *'
+    - cron: '20 18 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

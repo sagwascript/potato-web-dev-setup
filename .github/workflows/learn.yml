@@ -21,7 +21,7 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Install doctl
-        run: sudo apt-get install doctl jq
+        run: snap install doctl jq
 
       # Runs a set of commands using the runners shell
       - name: Check installed doctl and jq

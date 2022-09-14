@@ -28,3 +28,9 @@ jobs:
         run: |
           doctl -h
           jq -h
+      - name: Test using variable
+        run: |
+          some_variable=1234
+          echo $some_variable
+          other_variable=$(pwd)
+          echo $other_variable
